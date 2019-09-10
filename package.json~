@@ -1,0 +1,25 @@
+{
+  "name": "showdown-math",
+  "version": "0.0.1",
+  "description": "showdown extension for math",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ijkzen/showdown-math.git"
+  },
+  "keywords": [
+    "showdown",
+    "math",
+    "dollar",
+    "double-dollar"
+  ],
+  "author": "ijkzen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ijkzen/showdown-math/issues"
+  },
+  "homepage": "https://github.com/ijkzen/showdown-math#readme"
+}
